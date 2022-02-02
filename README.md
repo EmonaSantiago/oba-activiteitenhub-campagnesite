@@ -24,12 +24,23 @@
   * [Licentie](#licentie)
 
 ## Kenmerken
+* 🔵 Html
+* 🟣 CSS
+* 🎨 Figma
+
+
 
 ## Installatie
+git clone https://github.com/NBadeloe/oba-activiteitenhub-campagnesite.git
+cd oba-activiteitenhub-campagnesite
 
 ## Gebruik
+git clone https://github.com/NBadeloe/oba-activiteitenhub-campagnesite.git
+cd oba-activiteitenhub-campagnesite
 
 ## Bronnen
+
+
 
 ## Licentie
 
